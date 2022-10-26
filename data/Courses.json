@@ -1,0 +1,80 @@
+[
+    {
+        "id": "abc1",
+        "category_id": "1a",
+        "name": "UI designing Basic to Advance",
+        "info": {
+            "course_fee": "3k",
+            "course_duration": "2 months",
+            "start_date": "1st January, 2023",
+            "software": "figma, xd"
+        },
+        "img": "https://images.unsplash.com/photo-1545235617-9465d2a55698?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "details": "The course curriculum of the UI Design course varies as per the degree offered on completion of the Course. Apart from this, the subjects/ topics taught in the UI Design course may differ from one college to another."
+    },
+    {
+        "id": "def2",
+        "category_id": "2b",
+        "name": "UX designing Basic to Advance",
+        "info": {
+            "course_fee": "2k",
+            "course_duration": "1 months",
+            "start_date": "15th January, 2023",
+            "software": "figma, xd"
+        },
+        "img": "https://images.unsplash.com/photo-1587355760421-b9de3226a046?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "details": "This course will teach you everything you need to know about UX, including design, content, and coding. And you'll learn from the ground up, so it doesn't matter how much experience you have when you start. You'll be exposed to principles and strategies, but, more importantly, you'll learn how to actually apply these abstract concepts by coding three different websites for three very different audiences."
+    },
+    {
+        "id": "ghi3",
+        "category_id": "3c",
+        "name": "Graphic Designing Complete Crash Course",
+        "info": {
+            "course_fee": "5k",
+            "course_duration": "6 months",
+            "start_date": "7th January, 2023",
+            "software": "AdobePhotoShop, AdobeIllustrator, Figma, AdobeXD"
+        },
+        "img": "https://images.unsplash.com/photo-1626785774625-ddcddc3445e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+        "details": "The state-approved graphic design online training courses for anyone who is looking for professional further education in graphics. Our courses of study are the ideal choice for practical and creative design, learning relevant skills and obtaining constructive feedback from design professionals."
+    },
+    {
+        "id": "jkl4",
+        "category_id": "4d",
+        "name": "Web designing And Development",
+        "info": {
+            "course_fee": "6k",
+            "course_duration": "9 months",
+            "start_date": "1st February, 2023",
+            "software": "VSC, NodeJs, JavaScript, React, Bootstrap, Tailwind"
+        },
+        "img": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+        "details": "Learn front-end and hybrid mobile development, with server-side support, for implementing a multi-platform solution.The first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. On the server side, you'll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript. Ideally learners should complete the courses in the specified sequence."
+    },
+    {
+        "id": "mno5",
+        "category_id": "5e",
+        "name": "Python For Beginners",
+        "info": {
+            "course_fee": "3k",
+            "course_duration": "3 months",
+            "start_date": "20th January, 2023",
+            "software": "IDLE, VSC, PyCharm,SpyDr"
+        },
+        "img": "https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+        "details": "Python is a very popular programming language because it is fast, versatile and easy to understand. This free online Python course will hone your passion for programming by taking you through the fundamentals and more advanced features of Python. You will learn exactly how Python programming works, the different applications that Python can work for such as software development and mathematical computations and which areas you can apply them in."
+    },
+    {
+        "id": "pqr6",
+        "category_id": "6f",
+        "name": "Advance python course",
+        "info": {
+            "course_fee": "5k",
+            "course_duration": "6 months",
+            "start_date": "10th February, 2023",
+            "software": "IDLE, VSC, PyCharm, SpyDr, ATOM, PyDev"
+        },
+        "img": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
+        "details": ""
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1a",
+      "name": "UI designing"
+    },
+    {
+      "id": "2b",
+      "name": "UX designing"
+    },
+    {
+      "id": "3c",
+      "name": "Graphic Designing"
+    },
+    {
+      "id": "4d",
+      "name": "Web Development"
+    },
+    {
+      "id": "5e",
+      "name": "Basic Python"
+    },
+    {
+      "id": "6f",
+      "name": "Advance Python"
+    }
+  ]
