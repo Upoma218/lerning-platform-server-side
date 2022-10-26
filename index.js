@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
     res.send('ULearning API is Running now..');
 });
 
-app.get('/courses-categories', (req, res) => {
+app.get('/category', (req, res) => {
     res.send(categories);
 });
 app.get('/category/:id', (req, res) => {
