@@ -28,5 +28,5 @@ app.get('/courses/:id', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log('ULearning server running on port 5000', port);
+    console.log('ULearning server is running on port 5000', port);
 })
