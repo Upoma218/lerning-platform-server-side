@@ -1,6 +1,6 @@
 [
     {
-        "id": "abc1",
+        "id": "1",
         "category_id": "1a",
         "name": "UI designing Basic to Advance",
         "info": {
@@ -13,7 +13,7 @@
         "details": "The course curriculum of the UI Design course varies as per the degree offered on completion of the Course. Apart from this, the subjects/ topics taught in the UI Design course may differ from one college to another."
     },
     {
-        "id": "def2",
+        "id": "2",
         "category_id": "2b",
         "name": "UX designing Basic to Advance",
         "info": {
@@ -26,7 +26,7 @@
         "details": "This course will teach you everything you need to know about UX, including design, content, and coding. And you'll learn from the ground up, so it doesn't matter how much experience you have when you start. You'll be exposed to principles and strategies, but, more importantly, you'll learn how to actually apply these abstract concepts by coding three different websites for three very different audiences."
     },
     {
-        "id": "ghi3",
+        "id": "3",
         "category_id": "3c",
         "name": "Graphic Designing Complete Crash Course",
         "info": {
@@ -39,7 +39,7 @@
         "details": "The state-approved graphic design online training courses for anyone who is looking for professional further education in graphics. Our courses of study are the ideal choice for practical and creative design, learning relevant skills and obtaining constructive feedback from design professionals."
     },
     {
-        "id": "jkl4",
+        "id": "4",
         "category_id": "4d",
         "name": "Web designing And Development",
         "info": {
@@ -52,7 +52,7 @@
         "details": "Learn front-end and hybrid mobile development, with server-side support, for implementing a multi-platform solution.The first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. On the server side, you'll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript. Ideally learners should complete the courses in the specified sequence."
     },
     {
-        "id": "mno5",
+        "id": "5",
         "category_id": "5e",
         "name": "Python For Beginners",
         "info": {
@@ -65,7 +65,7 @@
         "details": "Python is a very popular programming language because it is fast, versatile and easy to understand. This free online Python course will hone your passion for programming by taking you through the fundamentals and more advanced features of Python. You will learn exactly how Python programming works, the different applications that Python can work for such as software development and mathematical computations and which areas you can apply them in."
     },
     {
-        "id": "pqr6",
+        "id": "6",
         "category_id": "6f",
         "name": "Advance python course",
         "info": {

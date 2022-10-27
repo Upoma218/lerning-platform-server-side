@@ -1,26 +1,26 @@
 [
     {
-      "id": "1a",
+      "id": "1",
       "name": "UI designing"
     },
     {
-      "id": "2b",
+      "id": "2",
       "name": "UX designing"
     },
     {
-      "id": "3c",
+      "id": "3",
       "name": "Graphic Designing"
     },
     {
-      "id": "4d",
+      "id": "4",
       "name": "Web Development"
     },
     {
-      "id": "5e",
+      "id": "5",
       "name": "Basic Python"
     },
     {
-      "id": "6f",
+      "id": "6",
       "name": "Advance Python"
     }
   ]
